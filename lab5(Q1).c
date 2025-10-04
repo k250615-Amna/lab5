@@ -9,8 +9,6 @@ int main(){
 	else if(marks>=85){
 		printf("You passed with distinction!");
 	}
-	else{
-		printf("You did not pass");
-	}
 	return 0;
 }
+
